@@ -1,6 +1,6 @@
 Name des Projekts:	Logistische Regression
 
-Link zum MyBinder: 	https://mybinder.org/v2/gh/HuseyinBgn/1LogisticRegression/HEAD
+Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/1LogisticRegression/HEAD)
 
 Doku:	
 
